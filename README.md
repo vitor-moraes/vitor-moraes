@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b6a083&size=35&center=true&vCenter=true&width=1000&lines=Vitor+Moraes'+Github;Itapira,+Brazil;:%29)](https://git.io/typing-svg)
 
-### Main skills:
+### Main skills
 ![Python](https://img.shields.io/badge/-Python-474646?style=for-the-badge&logo=Python&logoColor=yellow&labelColor=474646)&nbsp; 
 ![Pandas](https://img.shields.io/badge/-Pandas-474646?style=for-the-badge&logo=Pandas&logoColor=yellow&labelColor=474646)&nbsp; 
 ![Ruby](https://img.shields.io/badge/-Ruby-474646?style=for-the-badge&logo=Ruby&logoColor=red&labelColor=474646)&nbsp; 
