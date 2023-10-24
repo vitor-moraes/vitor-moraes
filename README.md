@@ -26,10 +26,37 @@ Here are some ideas to get you started:
 ![React.js](https://img.shields.io/badge/-React.js-474646?style=for-the-badge&logo=react&labelColor=474646)&nbsp;
 
 <div align="center">  
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=vitor-moraes&theme=noctis_minimus&show_icons=true&count_private=true&hide_border=true&hide_title=true&bg_color=474646" /> 
-  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-moraes&theme=noctis_minimus&layout=compact&hide_border=true&hide_progress=true&hide_title=true&bg_color=474646" />
+  <picture>
+    <source
+      width="49%"
+      height="200px"
+      srcset="https://github-readme-stats.vercel.app/api?username=vitor-moraes&theme=noctis_minimus&show_icons=true&count_private=true&hide_border=true&hide_title=true&bg_color=474646"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      width="49%"
+      height="200px"
+      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  </picture>
+  <picture>
+    <source
+      width="40%"
+      height="200px"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-moraes&theme=noctis_minimus&layout=compact&hide_border=true&hide_progress=true&hide_title=true&bg_color=474646"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      width="40%"
+      height="200px"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-moraes&theme=noctis_minimus&layout=compact&hide_border=true&hide_progress=true&hide_title=true&bg_color=474646"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  </picture>
 </div>
-
 
 <!--
 ### Studying in this moment:
