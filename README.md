@@ -37,7 +37,7 @@ Here are some ideas to get you started:
     <source
       width="49%"
       height="200px"
-      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=vitor-moraes&theme=noctis_minimus&show_icons=true&count_private=true&hide_border=true&hide_title=true&bg_color=fff5e8&text_color=524433&icon_color=528234"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
     <source
       width="40%"
       height="200px"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-moraes&theme=noctis_minimus&layout=compact&hide_border=true&hide_progress=true&hide_title=true&bg_color=474646"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-moraes&theme=noctis_minimus&layout=compact&hide_border=true&hide_progress=true&hide_title=true&bg_color=fff5e8&text_color=524433&icon_color=528234"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
