@@ -17,19 +17,18 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b6a083&size=35&center=true&vCenter=true&width=1000&lines=Vitor+Moraes'+Github;Itapira,+Brazil;:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=vitor-moraes&theme=noctis_minimus&show_icons=true&count_private=true&hide_border=true&hide_title=true" /> 
-  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-moraes&theme=noctis_minimus&layout=compact&hide_border=true&hide_progress=true&hide_title=true" />
-</div>
-
- ### Main skills:
- 
+### Main skills:
 ![Python](https://img.shields.io/badge/-Python-1b2932?style=for-the-badge&logo=Python&logoColor=yellow&labelColor=1b2932)&nbsp; 
 ![Pandas](https://img.shields.io/badge/-Python-1b2932?style=for-the-badge&logo=Pandas&logoColor=yellow&labelColor=1b2932)&nbsp; 
 ![Ruby](https://img.shields.io/badge/-Ruby-1b2932?style=for-the-badge&logo=Ruby&logoColor=red&labelColor=1b2932)&nbsp; 
 ![Ruby-on-Rails](https://img.shields.io/badge/-Rails-1b2932?style=for-the-badge&logo=Ruby-On-Rails&logoColor=red&labelColor=1b2932)&nbsp; 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1b2932?style=for-the-badge&logo=javascript&labelColor=1b2932)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-1b2932?style=for-the-badge&logo=react&labelColor=1b2932)&nbsp;
+
+<div align="center">  
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=vitor-moraes&theme=noctis_minimus&show_icons=true&count_private=true&hide_border=true&hide_title=true" /> 
+  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-moraes&theme=noctis_minimus&layout=compact&hide_border=true&hide_progress=true&hide_title=true" />
+</div>
 
 <!--
 ### Studying in this moment:
