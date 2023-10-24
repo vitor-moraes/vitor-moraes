@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Main skills:
 ![Python](https://img.shields.io/badge/-Python-474646?style=for-the-badge&logo=Python&logoColor=yellow&labelColor=474646)&nbsp; 
-![Pandas](https://img.shields.io/badge/-Python-474646?style=for-the-badge&logo=Pandas&logoColor=yellow&labelColor=474646)&nbsp; 
+![Pandas](https://img.shields.io/badge/-Pandas-474646?style=for-the-badge&logo=Pandas&logoColor=yellow&labelColor=474646)&nbsp; 
 ![Ruby](https://img.shields.io/badge/-Ruby-474646?style=for-the-badge&logo=Ruby&logoColor=red&labelColor=474646)&nbsp; 
 ![Ruby-on-Rails](https://img.shields.io/badge/-Rails-474646?style=for-the-badge&logo=Ruby-On-Rails&logoColor=red&labelColor=474646)&nbsp; 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-474646?style=for-the-badge&logo=javascript&labelColor=474646)&nbsp;
