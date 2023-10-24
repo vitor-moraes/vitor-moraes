@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6cacb6&height=80&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b6a083&size=35&center=true&vCenter=true&width=1000&lines=Vitor+Moraes'+Github;Itapira,+Brazil;:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b6a083&size=35&center=true&vCenter=true&width=1000&lines=Vitor+Moraes'+Github)](https://git.io/typing-svg)
 
 ### Main skills
 ![Python](https://img.shields.io/badge/-Python-474646?style=for-the-badge&logo=Python&logoColor=yellow&labelColor=474646)&nbsp; 
