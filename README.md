@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-474646?style=for-the-badge&logo=javascript&labelColor=474646)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-474646?style=for-the-badge&logo=react&labelColor=474646)&nbsp;
 
-<div align="center">  
+<div align="center" style="display: flex; justify-content: space-between;">  
   <picture>
     <source
       width="49%"
@@ -41,6 +41,7 @@ Here are some ideas to get you started:
     />
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
   </picture>
+  <a>  &nbsp; &nbsp; &nbsp; &nbsp;</a>
   <picture>
     <source
       width="40%"
