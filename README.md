@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6cacb6&height=80&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b6a083&size=35&center=true&vCenter=true&width=1000&lines=NEED+MORE+COFFEE;I'm+from+Brazil;:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b6a083&size=35&center=true&vCenter=true&width=1000&lines=Vitor+Moraes'+Github;Itapira,+Brazil;:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitor-moraes&theme=noctis_minimus&show_icons=true&count_private=true&hide_border=true" alt="Caroline Barbosa github stats" /> 
