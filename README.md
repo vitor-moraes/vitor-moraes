@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-474646?style=for-the-badge&logo=Python&logoColor=yellow&labelColor=474646)&nbsp; 
 ![Pandas](https://img.shields.io/badge/-Pandas-474646?style=for-the-badge&logo=Pandas&logoColor=yellow&labelColor=474646)&nbsp; 
 ![Ruby](https://img.shields.io/badge/-Ruby-474646?style=for-the-badge&logo=Ruby&logoColor=red&labelColor=474646)&nbsp; 
-![Ruby-on-Rails](https://img.shields.io/badge/-Rails-474646?style=for-the-badge&logo=Ruby-On-Rails&logoColor=red&labelColor=474646)&nbsp; 
+![Ruby-on-Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-474646?style=for-the-badge&logo=Ruby-On-Rails&logoColor=red&labelColor=474646)&nbsp; 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-474646?style=for-the-badge&logo=javascript&labelColor=474646)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-474646?style=for-the-badge&logo=react&labelColor=474646)&nbsp;
+![React](https://img.shields.io/badge/-React%20js-474646?style=for-the-badge&logo=react&labelColor=474646)&nbsp;
+![React-Native](https://img.shields.io/badge/-React%20Native-474646?style=for-the-badge&logo=react&labelColor=474646)&nbsp;
 
 <div align="center" style="display: flex; justify-content: space-between;">  
   <picture>
